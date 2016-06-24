@@ -3,4 +3,8 @@ There are a lot of rocks here. And sand.
 Mars has two moons - that's interesting.
 Where is the best place to land?
 
+<<<<<<< HEAD
 CHANGE CHANGE CHANGE
+=======
+Change 1!
+>>>>>>> 2e2f5d655a971a723359c2fabd1d03cdb11c1312
